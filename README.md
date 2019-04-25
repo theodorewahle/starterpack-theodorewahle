@@ -7,4 +7,3 @@ I put together a starterpack that will allow me to have more compact code as a s
 - babel
 - eslint
 - node, npm, yarn
-# starter-pack-v2
