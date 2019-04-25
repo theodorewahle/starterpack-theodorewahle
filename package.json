@@ -10,7 +10,7 @@
     "start": "NODE_ENV=development webpack-dev-server",
     "build": "yarn clean; NODE_ENV=production webpack --colors",
     "clean": "rimraf dist",
-    "deploy": "yarn build; surge -p dist -d teddywahle-react-router-starter.surge.sh; yarn clean"
+    "deploy": "yarn build; surge -p dist -d teddywahle-reudx.surge.sh; yarn clean"
   },
   "devDependencies": {
     "@babel/core": "^7.4.3",
